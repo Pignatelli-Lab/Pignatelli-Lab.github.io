@@ -6,4 +6,4 @@ This repository hosts [https://pignatelli-lab.github.io](https://pignatelli-lab.
 Pignatelli Lab <br>
 Department of Psychiatry, Washington University in St. Louis <br>
 [pignatellilab.org](pignatellilab.org)<br>
-✉️["Marco Pignatelli"](mailto:marco.pignatelli@wustl.edu?subject=pignatelli-lab.github.io)
+✉️[Marco Pignatelli](mailto:marco.pignatelli@wustl.edu?subject=pignatelli-lab.github.io)
