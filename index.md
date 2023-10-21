@@ -1,8 +1,9 @@
 ---
-title: Home
+title: About
 layout: home
 ---
-# Pignatelli Lab Analysis Scripts
+[!Logo](Pignatelli-Lab/pignatelli-lab.github.io/pignatelli_lab_logo.png)
+## About
 
 
 ----
