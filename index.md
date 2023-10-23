@@ -2,6 +2,7 @@
 title: About
 layout: home
 ---
+<img src='https://github.com/Pignatelli-Lab/pignatelli-lab.github.io/blob/main/pignatelli_lab_logo.png'>
 ![Logo](https://github.com/Pignatelli-Lab/pignatelli-lab.github.io/blob/main/pignatelli_lab_logo.png)
 
 ## About
